@@ -12,7 +12,7 @@
 
 其中部分参考了 [zzlanglx](https://zzhanglx.notion.site/73eed385186d4140a6935bf65d958709?pvs=4) 大佬的 Notion 笔记。
 
-## Course Score Composition
+## 课程成绩构成
 
 1. 期末笔试（30%）
     1. 范围：全部内容
@@ -25,10 +25,14 @@
 
 注：成绩比例可能按需调整
 
-## Useful Websites
+## 部分有用的网站
 
--   [Draw Directed Graph Online](https://www.cs.unc.edu/~otternes/comp455/fsm_designer/)
+-   [Draw Directed Graph Online](https://www.cs.unc.edu/~otternes/comp455/fsm_designer/)：绘制状态机的在线网站
 
 ## 大作业
 
 请参见 [zhuozhiyongde / SysY-Compiler-2024Fall-PKU](https://github.com/zhuozhiyongde/SysY-Compiler-2024Fall-PKU/tree/work)
+
+## 致谢
+
+[EmptyBlueBox](https://github.com/EmptyBlueBox)。
